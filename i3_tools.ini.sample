@@ -1,0 +1,10 @@
+[light]
+increase_cmd=light -A %d
+decrease_cmd=light -U %d
+set_cmd=light -S %d
+get_cmd=light
+
+icon-low=/home/bestpig/.config/i3/scripts/icons/display-brightness-symbolic.svg
+icon-medium=/home/bestpig/.config/i3/scripts/icons/display-brightness-symbolic.svg
+icon-high=/home/bestpig/.config/i3/scripts/icons/display-brightness-symbolic.svg
+icon-full=/home/bestpig/.config/i3/scripts/icons/display-brightness-symbolic.svg
